@@ -5,3 +5,4 @@
 - Chaitanya Garg
 - Ashish Pandey
 - Harshit Varhat
+- Jaydeep Thummar
